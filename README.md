@@ -1,4 +1,4 @@
-B# 🤖 Gemini Realtime Multimodal Chat
+# 🤖 Gemini Realtime Multimodal Chat
 
 A real-time multimodal chat application powered by Google's Gemini AI. This project enables real-time communication with Gemini's advanced AI capabilities through WebSocket connections, supporting both text and multimodal interactions.
 
