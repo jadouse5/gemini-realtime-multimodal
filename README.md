@@ -65,7 +65,6 @@ python-dotenv
    ```bash
 python -m http.server 8000
    # Connect using your preferred WebSocket client
-   ```
 
 ---
 
